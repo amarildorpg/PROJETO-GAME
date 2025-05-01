@@ -1,24 +1,30 @@
-PROJETO-GAME
-Este é um projeto desenvolvido durante um curso de especialização em Front-end. O objetivo é aplicar conceitos de HTML, CSS e JavaScript na criação de um jogo simples, executado diretamente no navegador.
+# PROJETO-GAME
 
-🎯 Objetivo do Projeto
+Este é um projeto desenvolvido durante um curso de especialização em Front-end. O objetivo é aplicar conceitos de **HTML**, **CSS** e **JavaScript** na criação de um jogo simples, executado diretamente no navegador.
+
+---
+
+## 🎯 Objetivo do Projeto
+
 Desenvolver um jogo web como prática dos conhecimentos adquiridos durante o curso, com foco em:
 
-Estruturação de páginas com HTML5
+- Estruturação de páginas com **HTML5**
+- Estilização com **CSS3**
+- Interatividade e lógica com **JavaScript**
 
-Estilização com CSS3
+---
 
-Interatividade e lógica com JavaScript
+## 🧪 Tecnologias Utilizadas
 
-🧪 Tecnologias Utilizadas
-HTML
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-CSS
+---
 
-JavaScript
+## 📁 Estrutura de Pastas
 
-📁 Estrutura de Pastas
-
+```
 PROJETO-GAME/
 ├── index.html
 ├── css/
@@ -29,17 +35,32 @@ PROJETO-GAME/
 │   └── [arquivos de fontes]
 └── imagens/
     └── [imagens do jogo]
-    
-▶️ Como Executar o Projeto
-1 - Clone o repositório:
-git clone https://github.com/amarildorpg/PROJETO-GAME.git
-2 - Acesse a pasta:
-cd PROJETO-GAME
-3 - Abra o arquivo index.html em seu navegador.
+```
 
-📚 Sobre
-Este projeto foi feito com fins educacionais como parte de um curso de especialização em Front-end.
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/amarildorpg/PROJETO-GAME.git
+   ```
+2. Acesse a pasta:
+   ```bash
+   cd PROJETO-GAME
+   ```
+3. Abra o arquivo `index.html` em seu navegador.
+
+---
+
+## 📚 Sobre
+
+Este projeto foi feito com fins educacionais como parte de um curso de especialização em Front-end.  
 É um exemplo prático para fixação de conceitos e desenvolvimento de habilidades com tecnologias web.
 
-🙋‍♂️ Autor
-Projeto desenvolvido por amarildorpg durante curso de formação.
+---
+
+## 🙋‍♂️ Autor
+
+Projeto desenvolvido por **amarildorpg** durante curso de formação.  
+Confira o repositório no GitHub: [PROJETO-GAME](https://github.com/amarildorpg/PROJETO-GAME)
